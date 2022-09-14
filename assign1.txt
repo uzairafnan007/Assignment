@@ -1,0 +1,16 @@
+# examples for list,tuple and dictionaries
+mylist3=["we","are","here","for","you",6789]
+mytup=("pon0der","over",987.8)
+mydict={
+    "yrer":"uyyt",
+    "jire":"berserh",
+    }
+print(mytup)
+print(mylist3)
+print(mydict)
+#examples for negative indexing
+b="conquer"
+a="morphology"
+print(a[-5:-3])
+print(a[-8:-:-4])
+print(b[-4:-1])
